@@ -1,3 +1,7 @@
+<p align="center" >
+  <img src="https://i.ibb.co/nk0QhKC/demo.png" width="700" />
+</p>
+
 # CRUD MVC almacen/tienda
 
 Evidencia SENA creación de módulos de software - GA7-220501096-AA2-EV01

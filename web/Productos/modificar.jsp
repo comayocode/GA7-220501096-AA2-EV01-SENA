@@ -18,7 +18,7 @@
         <header>
             <nav class="navbar navbar-expand-md navbar-dark navbar-li d-flex justify-content-between"
                  style="background-color: #739072">
-                <h3 class="text-center mx-5" style="color: #EBE4D1">Creación módulos de Software - GA7-220501096-AA2-EV01</h3>
+                <h3 class="text-center mx-5 mb-0" style="color: #EBE4D1">Creación módulos de Software - GA7-220501096-AA2-EV01</h3>
                 <div class="collapse navbar-collapse d-flex justify-content-end" id="navbarNav">
                     <ul class="navbar-nav mx-5">
                         <li class="nav-item">
